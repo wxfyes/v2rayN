@@ -540,7 +540,7 @@ public class Global
             { ECoreType.brook, "txthinking/brook" },
             { ECoreType.overtls, "ShadowsocksR-Live/overtls" },
             { ECoreType.shadowquic, "spongebob888/shadowquic" },
-            { ECoreType.v2rayN, "2dust/v2rayN" },
+            { ECoreType.v2rayN, "wxfyes/v2rayN" },
         };
 
     public static readonly List<string> OtherGeoUrls =
@@ -594,3 +594,4 @@ public class Global
 
     #endregion const
 }
+
