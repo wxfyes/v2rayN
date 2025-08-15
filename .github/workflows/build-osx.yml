@@ -67,7 +67,7 @@ jobs:
         file: ${{ github.workspace }}/v2rayN*.dmg
         tag: ${{ github.event.inputs.release_tag }}
         file_glob: true
-        prerelease: true
+        prerelease: false
 
     # release zip archive
     - name: Package release zip archive
